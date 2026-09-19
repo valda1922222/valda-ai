@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="near_black">#FF0F0F0F</color>
+    <color name="surface">#FF1A1A1A</color>
+    <color name="surface_high">#FF2A2A2A</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB3B3B3</color>
+    <color name="accent">#FF1DB954</color>
+    <color name="bubble_user">#FF1DB954</color>
+    <color name="bubble_ai">#FF2A2A2A</color>
+</resources>
