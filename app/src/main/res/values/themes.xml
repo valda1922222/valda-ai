@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.ValdaAI" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/near_black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:navigationBarColor">@color/near_black</item>
+    </style>
+</resources>
