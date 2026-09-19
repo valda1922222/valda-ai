@@ -9,7 +9,7 @@ import java.net.URL
 object GeminiApi {
 
     // API key kamu (AQ.Ab8RN...)
-    private const val API_KEY = "AQ.Ab8RN6KIq8pmgloNC3Id_z5UxRJ0KbxUwYUo4Zftar_7F74QJw"
+    private const val API_KEY = "AQ.Ab8RN6Jx1NWfU27j2XVN5Afm-ATMv0XficpeR3Xc1rlMn2PO7w"
 
     // ✅ MODEL BARU: gemini-3.6-flash
     private const val ENDPOINT =
